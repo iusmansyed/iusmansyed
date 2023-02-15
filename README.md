@@ -12,4 +12,4 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
 </p>
 
- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShaheerShahzadOfficial&theme=monokai-metallian&hide_border=true&bg_color=1F222E" height="192px" width="900px"" alt="Syed Muhammad Usman"  />
+ <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=iusmansyed&theme=monokai-metallian&hide_border=true&bg_color=1F222E" height="192px" width="900px"" alt="Syed Muhammad Usman"  />
