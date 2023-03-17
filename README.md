@@ -15,8 +15,8 @@
  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=iusmansyed&theme=monokai-metallian&hide_border=true&bg_color=1F222E" height="192px" width="900px"" alt="Syed Muhammad Usman"  />
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iusmansyed&show_icons=true&locale=en" alt="iusmansyed" /></p>
 
-<div style="align="center">
-<p style="margin-bottom: 30px;" > <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iusmansyed&show_icons=true&locale=en&layout=compact" alt="iusmansyed" /></p>
-  </div>
-<svg xmlns="http://www.w3.org/2000/svg" width="598.25299" height="581.49793" viewBox="0 0 598.25299 581.49793" xmlns:xlink="http://www.w3.org/1999/xlink">
 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaheerShahzadOfficial&show_icons=true&locale=en" alt="ShaheerShahzadOfficial" /></p>
+ 
+ 
+<p align="center" style="margin-bottom: 30px;" > <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaheerShahzadOfficial&show_icons=true&locale=en&layout=compact" alt="ShaheerShahzadOfficial" /></p>
