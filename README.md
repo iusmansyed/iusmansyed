@@ -13,3 +13,8 @@
 </p>
 
  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=iusmansyed&theme=monokai-metallian&hide_border=true&bg_color=1F222E" height="192px" width="900px"" alt="Syed Muhammad Usman"  />
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iusmansyed&show_icons=true&locale=en" alt="iusmansyed" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iusmansyed&" alt="iusmansyed"  style="margin-left: 30px;"/></p>
+
+<p style="margin-bottom: 30px;" > <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iusmansyed&show_icons=true&locale=en&layout=compact" alt="iusmansyed" /></p>
