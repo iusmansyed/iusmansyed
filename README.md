@@ -13,7 +13,6 @@
 </p>
 
  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=iusmansyed&theme=monokai-metallian&hide_border=true&bg_color=1F222E" height="192px" width="900px"" alt="Syed Muhammad Usman"  />
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iusmansyed&show_icons=true&locale=en" alt="iusmansyed" /></p>
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaheerShahzadOfficial&show_icons=true&locale=en" alt="ShaheerShahzadOfficial" /></p>
