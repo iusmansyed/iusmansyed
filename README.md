@@ -12,6 +12,6 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iusmansyed&show_icons=true&locale=en&layout=compact" alt="iusmansyed" /></p>
+<p style={'text-align:center'}><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iusmansyed&show_icons=true&locale=en&layout=compact" alt="iusmansyed" /></p>
 
  
