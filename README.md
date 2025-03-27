@@ -13,3 +13,4 @@
 </p>
 
 <p style={'text-align:center'}><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iusmansyed&show_icons=true&locale=en&layout=compact" alt="iusmansyed" /></p>
+<img align="center" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Erk4NawQOHkf4wSN7JmB_A.jpeg" alt=""/>
