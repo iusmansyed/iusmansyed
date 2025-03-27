@@ -1,4 +1,4 @@
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+<div style="display: grid; grid-template-columns: repeat(3, 2fr); gap: 10px;">
   <p>
   <img width="70px" src="https://static-00.iconduck.com/assets.00/lua-icon-2048x2048-iud9q772.png" alt="Lua"/>
   </p>
