@@ -1,16 +1,7 @@
-<p align="center">
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-   <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
-</p>
-
-<p style={'text-align:center'}><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iusmansyed&show_icons=true&locale=en&layout=compact" alt="iusmansyed" /></p>
-<img align="center" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Erk4NawQOHkf4wSN7JmB_A.jpeg" alt=""/>
+<div style="position:absolute">
+  <img src="https://static-00.iconduck.com/assets.00/lua-icon-2048x2048-iud9q772.png" alt=""/>
+  <img src="" alt=""/>
+  <img src="" alt=""/>
+  <img src="" alt=""/>
+  <img src="" alt=""/>
+</div>
