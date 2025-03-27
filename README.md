@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; gap: 10px;">
+<div style="display: flex; flex-direction: column; gap: 10px; justify-content:center">
   <p>
   <img width="70px" src="https://static-00.iconduck.com/assets.00/lua-icon-2048x2048-iud9q772.png" alt="Lua"/>
   <img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" alt="JavaScript"/>
